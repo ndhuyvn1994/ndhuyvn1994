@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/duc-huy-nguyen-242a69163/">
-  <img align="left" alt="Duc Huy's LinkedIN" width="22px" src="images_and_icons/linkedin-logo-copy" />
+  <img align="left" alt="Duc Huy's LinkedIN" width="22px" src="images_and_icons/linkedin-logo-copy.png" />
 </a>
 
 <a href="https://www.researchgate.net/profile/Duc-Nguyen-162">
@@ -16,8 +16,6 @@
 <a href="https://www.instagram.com/dhuynguyen94/">
   <img align="left" alt="Duc Huy's ORCID" width="22px" src="images_and_icons/new_instagram_logo-1024x1024.jpg" />
 </a>
-
-
 <br />
 
 Hi, I'm [Duc Huy Nguyen](https://www.linkedin.com/in/duc-huy-nguyen-242a69163/), a passionate self-taught AI developer and a Software engineer from Vietnam.
