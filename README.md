@@ -16,11 +16,11 @@ I take great care in the experience, architecture, and code quality of the thing
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Huy](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 How to reach me: [@Huy](https://www.linkedin.com/in/duc-huy-nguyen-242a69163/);
+- 📝 [Resume](https://dhuynguyen94.github.io/documents/CV_2021_academic_NGUYENDUCHUY_main.pdf)
 
 **Languages and Tools:**  
 
@@ -40,8 +40,7 @@ No Activity tracked this Week
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
+![Duc Huy's github stats](https://github-readme-stats.vercel.app/api?username=dhuynguyen94&show_icons=true&theme=radical)
 
 
 
