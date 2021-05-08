@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/dhuynguyen94/">
   <img align="left" alt="Duc Huy's ORCID" width="22px" src="images_and_icons/new_instagram_logo-1024x1024.jpg" />
 </a>
-<br />
+<br>
 
 Hi, I'm [Duc Huy Nguyen](https://www.linkedin.com/in/duc-huy-nguyen-242a69163/), a passionate self-taught AI developer and a Software engineer from Vietnam.
 I've received the B.S. degree from Department of Electrical and Electronic Engineering, Danang University of Science and Technology, Danang, Vietnam, in 2017, 
