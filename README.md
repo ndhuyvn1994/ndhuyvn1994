@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Huy](https://www.linkedin.com/in/duc-huy-nguyen-242a69163/);
+- 📫 How to reach me: [@Huy](https://dhuynguyen94.github.io/);
 - 📝 [Resume](https://dhuynguyen94.github.io/documents/CV_2021_academic_NGUYENDUCHUY_main.pdf)
 
 **Languages and Tools:**  
