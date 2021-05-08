@@ -2,14 +2,34 @@
 
 
 <a href="https://www.linkedin.com/in/duc-huy-nguyen-242a69163/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Duc Huy's LinkedIN" width="22px" src="images_and_icons/linkedin-logo-copy" />
 </a>
 
+<a href="https://www.researchgate.net/profile/Duc-Nguyen-162">
+  <img align="left" alt="Duc Huy's Research Gate" width="22px" src="images_and_icons/ResearchGateLogo.png" />
+</a>
+
+<a href="https://orcid.org/0000-0003-0216-2946">
+  <img align="left" alt="Duc Huy's ORCID" width="22px" src="images_and_icons/ORCID_LOGO.png" />
+</a>
+
+<a href="https://www.instagram.com/dhuynguyen94/">
+  <img align="left" alt="Duc Huy's ORCID" width="22px" src="images_and_icons/new_instagram_logo-1024x1024.jpg" />
+</a>
 
 
 <br />
 
-Hi, I'm [Duc Huy Nguyen](https://dhuynguyen94.github.io/), a passionate self-taught AI developer and a Software engineer from Vietnam. 
+Hi, I'm [Duc Huy Nguyen](https://www.linkedin.com/in/duc-huy-nguyen-242a69163/), a passionate self-taught AI developer and a Software engineer from Vietnam.
+I've received the B.S. degree from Department of Electrical and Electronic Engineering, Danang University of Science and Technology, Danang, Vietnam, in 2017, 
+and the M.S. degree from Department of Electrical Engineering and Computer Science, National Chiao Tung University, Hsinchu, Taiwan, in 2019, 
+where he is currently pursuing the Ph.D. degree.  
+His current research interests focus on researching and developing 
+Software Algorithms, 
+Data Analytics, 
+Machine Learning 
+and Deep Learning Architectures.
+ 
 My passion for AI and software lies with applying for Biomedical, Hand-held Device and IoT. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -24,9 +44,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="images_and_icons/python_logo.png"></code>
+<code><img height="20" src="images_and_icons/cpp_logo.png"></code>
+<code><img height="20" src="images_and_icons/MySQL-Logo.wine.png"></code>
+<code><img height="20" src="images_and_icons/postgresSQL_logo.png"></code>
 <code><img height="20" src="images_and_icons/Icon-Matlab_0.png"></code>
 
 📊 **This Week I Spent My Time On:**
