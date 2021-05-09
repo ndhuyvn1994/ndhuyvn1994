@@ -48,6 +48,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="images_and_icons/postgresSQL_logo.png"></code>
 <code><img height="20" src="images_and_icons/Icon-Matlab_0.png"></code>
 
+📊 **My experience :** 🏆
+<!--START_SECTION:waka-->
+```text
+Python                    3 years     ███████████████████████░░░░░░   
+AI Algorithms(ML/DL)      3 years     ███████████████████████░░░░░░  
+Matlab                    3 year      ███████████████████████░░░░░░    
+C++                       1.5 years   ████████████▒░░░░░░░░░░░░░░░░   
+```
+
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
