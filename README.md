@@ -18,7 +18,7 @@
 </a>
 <br>
 
-<br>Hi, I'm [Duc Huy Nguyen](https://www.linkedin.com/in/duc-huy-nguyen-242a69163/), a passionate self-taught AI developer and a Software engineer from Vietnam.
+<br>Hi, I'm [Huy (Duc Huy Nguyen)](https://www.linkedin.com/in/duc-huy-nguyen-242a69163/), a passionate self-taught AI developer and a Software engineer from Vietnam.
 I've received the B.S. degree from Department of Electrical and Electronic Engineering, Danang University of Science and Technology, Danang, Vietnam, in 2017, 
 and the M.S. degree from Department of Electrical Engineering and Computer Science, National Chiao Tung University, Hsinchu, Taiwan, in 2019, 
 where he is currently pursuing the Ph.D. degree.  
