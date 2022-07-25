@@ -19,15 +19,9 @@
 <br>
 
 <br>Hi, I'm [Huy (Duc Huy Nguyen)](https://www.linkedin.com/in/duc-huy-nguyen-242a69163/), a passionate self-taught AI developer and a Software engineer from Vietnam.
-I've received the B.S. degree from Department of Electrical and Electronic Engineering, Danang University of Science and Technology, Danang, Vietnam, in 2017, 
-and the M.S. degree from Department of Electrical Engineering and Computer Science, National Chiao Tung University, Hsinchu, Taiwan, in 2019, 
-where he is currently pursuing the Ph.D. degree.  
-His current research interests focus on researching and developing 
-Software Algorithms, 
-Data Analytics, 
-Machine Learning 
-and Deep Learning Architectures.
- 
+I received the B.S. degree from the Department of Electrical and Electronic Engineering, Danang University of Science and Technology, Danang, Vietnam, in 2017, and the M.S. and Ph.D. degrees from the Department of Electrical Engineering and Computer Science, National Yang Ming Chiao Tung University (NYCU), Hsinchu, Taiwan, in 2019 and 2022, respectively. 
+My current research interests focus on researching and developing biomedical signal processing, machine learning and deep learning architectures, and especially the combination of data analysis and knowledge-based modeling.
+
 My passion for AI and software lies with applying for Biomedical, Hand-held Device and IoT. 
 I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -37,8 +31,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Huy](https://dhuynguyen94.github.io/);
-- 📝 [Resume](https://dhuynguyen94.github.io/documents/CV_2021_academic_NGUYENDUCHUY_main.pdf)
+- 📫 If you have any questions or comments, please feel free to contact me at  dhuy.nguyen94@gmail.com or ndhuyvn1994@gmail.com
+- 📝 [Personal Site](https://sites.google.com/view/dhuynguyen94/home)
 
 **Languages and Tools:**  
 
@@ -52,14 +46,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 - **Programming Language**
 ```text
-Python                    3 years     ███████████████████████░░░░░░   
-AI Algorithms(ML/DL)      3 years     ███████████████████████░░░░░░  
-Matlab                    3 year      ███████████████████████░░░░░░    
-C++                       1.5 years   ████████████▒░░░░░░░░░░░░░░░░   
+Python                    5 years     ███████████████████████░░░░░░   
+AI Algorithms(ML/DL)      5 years     ███████████████████████░░░░░░  
+Matlab                    5 year      ███████████████████████░░░░░░    
+C++                       2 years     ████████████▒░░░░░░░░░░░░░░░░   
 ```
 - **Database Language**
 ```text
-MySQL                     1.5 years   ████████████▒░░░░░░░░░░░░░░░░
+MySQL                     2 years     ████████████▒░░░░░░░░░░░░░░░░
 MongoDB                   0.5 years   ███████▒░░░░░░░░░░░░░░░░░░░░░
   
 ```
