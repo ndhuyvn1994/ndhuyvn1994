@@ -31,7 +31,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 If you have any questions or comments, please feel free to contact me at  dhuy.nguyen94@gmail.com or ndhuyvn1994@gmail.com
+- 📫 If you have any questions or comments, please feel free to contact me at ndhuyvn1994@gmail.com
 - 📝 [Personal Site](https://sites.google.com/view/dhuynguyen94/home)
 
 **Languages and Tools:**  
