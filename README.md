@@ -32,7 +32,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 If you have any questions or comments, please feel free to contact me at ndhuyvn1994@gmail.com
-- 📝 [Personal Site](https://sites.google.com/view/dhuynguyen94/home)
+- 📝 [Personal Site](https://sites.google.com/view/ndhuyvn1994)
 
 **Languages and Tools:**  
 
