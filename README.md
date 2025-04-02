@@ -40,6 +40,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="images_and_icons/MySQL-Logo.wine.png"></code>
 <code><img height="20" src="images_and_icons/postgresSQL_logo.png"></code>
 <code><img height="20" src="images_and_icons/Icon-Matlab_0.png"></code>
+<code><img height="20" src="images_and_icons/Icon-Verilog.png"></code>
+<code><img height="20" src="images_and_icons/Icon-TCL.png"></code>
+
 
 📊 **My experience :** 🏆
 <!--START_SECTION:waka-->
