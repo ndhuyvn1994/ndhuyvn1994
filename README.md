@@ -29,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 If you have any questions or comments, please feel free to contact me at ndhuyvn1994@gmail.com or ndhuyvn1994@nycu.edu.tw
-- 📝 [Personal Site](https://sites.google.com/view/ndhuyvn1994)
+- 📝 [Personal Site](https://sites.google.com/view/ndhuyvn)
 - 🎓[Digital IC Design Note and Lecture by myself](https://hackmd.io/@XxYeQeXdTWGqk-BuR80UPQ/rkn7mNata)
 
   
